@@ -53,3 +53,23 @@ Modelo relacional
 
 - Criando a tabela videos_playlist relacionando-a com outras tabelas
 
+### MySQL - Consultas com Join
+
+O passo a passo para realizar consultas com JOIN
+
+- Introdução ao curso
+
+- Apresentação da estrutura inicial do banco de dados
+
+- Realizando consultas com comandos JOIN e AS
+
+- Implementando múltiplos comandos JOIN
+
+- Conceito inicial sobre RIGHT e LEFT JOIN
+
+- Praticando consultas com RIGHT e LEFT JOIN
+
+- Inserindo novos dados com tabelas relacionadas
+
+- Realizando consultas com comando WHERE e conclusão da aula
+
