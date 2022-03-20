@@ -1,6 +1,7 @@
 # MySql---DIO
 MySql - Trabalhando com as suas primeiras tabelas
 
+Digital Innovation One Inc.
 
 **Instrutora:** Nathally Souza 
 
